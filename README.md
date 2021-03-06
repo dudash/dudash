@@ -1,4 +1,4 @@
-![Metrics](https://github.com/dudash/dudash/blob/master/github-metrics.svg)
+![dudashmetrics](https://raw.githubusercontent.com/dudash/dudash/main/github-metrics.svg)
 
 <!--
 **dudash/dudash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
