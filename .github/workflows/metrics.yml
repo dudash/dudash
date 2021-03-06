@@ -35,6 +35,7 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_limit: 3
           plugin_tweets_user: dudashtweets
+          plugin_stargazers: yes
           
           
           
