@@ -22,7 +22,7 @@ jobs:
           template: classic
           base: activity, community, metadata
           config_timezone: America/New_York
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 30
           plugin_activity_filter: all
           plugin_activity_limit: 1
@@ -34,7 +34,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }} # Required
-          plugin_tweets_limit: 3
+          plugin_tweets_limit: 2
           plugin_tweets_user: dudashtweets
           
           
