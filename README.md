@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/dudash?template=classic&base.header=0&base.repositories=0&activity=1&tweets=1&introduction=1&gists=1&languages=1&activity.limit=5&activity.days=30&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&languages.ignored=css%2C%20html%2C%20pug&languages.colors=github&languages.threshold=0%25&tweets.limit=3&tweets.user=dudashtweets&config.timezone=America%2FNew_York)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 <!--
 **dudash/dudash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
