@@ -1,6 +1,6 @@
 Hi 👋 I'm Dudash!
 
-I will always be a developer at :heart:. A lot of what you'll find here in my repos are: howto examples, demos, and proof of concepts.
+I will always be a developer at :heart:. A lot of what you'll find here in my repos are: howto examples, demos, and proof of concepts. I've also got a bunch of small things in [my github gists](https://gist.github.com/dudash).
 
 - Currently: Helping customers with open source emerging technology
 - Past: UAVs, mobile, unmanned systems R&D, game dev.
