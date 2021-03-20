@@ -1,9 +1,9 @@
 Hi 👋 I'm Dudash!
 
-I will always be a developer at :heart:. A lot of what you'll find here in my repos are: howto examples, demos, and proof of concepts.<br/>
+I would describe myself as a creative engineer (but I will always be a developer at :heart:). A lot of what you'll find here in my repos are: howto examples, demos, and proof of concepts.<br/>
 I've also got a bunch of small things in [my github gists](https://gist.github.com/dudash).
 
-- Currently: Helping customers with open source emerging technology
+- Currently: Helping customers with strategy and adoption/transformation using open source & emerging technology
 - Past: UAVs, mobile, unmanned systems R&D, game dev.
 - Edu: Engineering and Computer Science @ Virginia Tech 
 - Ask me about <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="20" height="20">
