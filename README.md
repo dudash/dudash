@@ -7,7 +7,7 @@ I've also got a bunch of small things in [my github gists](https://gist.github.c
 - Past: UAVs, mobile, unmanned systems R&D, game dev.
 - Edu: Engineering and Computer Science @ Virginia Tech 
 - Ask me about <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="20" height="20">
-- How to reach me: <a href="https://twitter.com/dudashtweets"><img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg" width="20" height="20"></a>
+- How to reach me: <a href="./twitter.png" width="20" height="20"></a>
 - Recent 🤓 reading: [Architects of Intelligence](https://www.goodreads.com/book/show/41998128-architects-of-intelligence)
 
 I'm also just back to twitter for a second go at it, please [follow](https://twitter.com/dudashtweets) me!
