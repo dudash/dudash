@@ -16,7 +16,7 @@ Here are some of my past presentations/publications (slide uploads coming soon):
 * *Level Up your Microservices using Quarkus* - **Red Hat Summit (2020)** - [Video](https://youtu.be/Wz9bpT3cjvs)
 * *Tame Microservices with an Istio Service Mesh* - **(2020)** - [Whitepaper Link](https://www.redhat.com/en/resources/tame-microservices-istio-service-mesh-overview)
 * *Introduction to Service Mesh and Istio* - **BrightTALK (2020)** - [Video](https://www.brighttalk.com/webcast/16623/408664), Slides
-* *Don't Create a Service Mess, Use a Service Mesh* - **Red Hat Summit (2019)** - Slides
+* *Don't Create a Service Mess, Use a Service Mesh* - **Red Hat Summit (2019)** - [Slides](./presentations/DUDASH-ServiceMeshSummit2019.pdf)
 * *Open Source & Innovation* - **Fishackathon DC (2018)** - [Details](https://fishackathon.co/past-runs)
 * *Containerizing your Database with MongoDB and OpenShift* - **Carahsoft Events (2018)** - [Video](https://carahevents.carahsoft.com/Event/Details/76133-govevents), Slides
 * *Run .NET and SQL Server natively on Linux with OpenShift* - **Red Hat Summit (2017)** - [Video](https://www.youtube.com/watch?v=xrC7IqOfpWQ), Slides
