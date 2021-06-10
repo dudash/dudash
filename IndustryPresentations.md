@@ -4,7 +4,7 @@ As such you will often find me writing and talking about that. I cover a range o
 Here are some of my past presentations/publications (slide uploads coming soon):
 * *Powering Agency Transformation Through Innovation* - **GovLoop Virtual Event KeyNote (2021)** - [Video](https://go.govloop.com/transformation-roadmap.html), [Slides](./presentations/2021_TransformationInnovationKeynote.pdf)
 * *Demo: Using NVIDIA GPUs with Jupyter Notebooks on Red Hat OpenShift* - **OpenShift YouTube (2021)** - [Video](https://www.youtube.com/watch?v=Pm29sQhH3fI&t=2s)
-* *Speed Date with OpenShift* - **Low Light Summit (2021)** - [Link](https://www.ncsi.com/event/lowlight/presenters/redhat/), [Slides](./presentations/2021_Speed_Date_with_OpenShift.pdf)
+* *Speed Date with OpenShift* - **Low Light Summit (2021)** - [Details](https://www.ncsi.com/event/lowlight/presenters/redhat/), [Slides](./presentations/2021_Speed_Date_with_OpenShift.pdf)
 * *AI is Coming to Every Data Center* - **BrightTALK (2021)** - [Video](https://www.brighttalk.com/webcast/10415/466836), [Slides](./presentations/2021_AI_is_Coming_to_Every_Data_Center.pdf)
 * *Writing an iOS Shortcut to Track Inhaler Usage* - **Blog (2020)** - [Blog Link](https://dudash.medium.com/writing-an-ios-shortcut-to-track-inhaler-usage-52c0cbbc9c91)
 * *Warp speed to cloud-native apps with Azure Red Hat OpenShift* - **Azure Gov't Meetup (2020 Dec)** - [Video](https://www.meetup.com/DCAzureGov/events/270066053/)
