@@ -1,5 +1,5 @@
 I enjoy discussing the technology that I work with and the solutions I've been a part of.
-As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, integration, open source, and user experience & design at many of the top developer conferences and regional user groups.
+As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, integration, open source, and user experience & design at top conferences and regional user groups.
 
 Here are some of my past presentations/publications (slide uploads coming soon):
 * *Powering Agency Transformation Through Innovation* - **GovLoop Virtual Event KeyNote (2021)** - [Video](https://go.govloop.com/transformation-roadmap.html), [Slides](./presentations/2021_TransformationInnovationKeynote.pdf)
