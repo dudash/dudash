@@ -1,8 +1,11 @@
 I enjoy discussing the technology that I work with and the solutions I've been a part of.
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, integration, open source, and user experience & design at top conferences and regional user groups.
 
+Upcoming industry events:
+* *Application Modernization Using Event-Driven Architecture* - **Carahsoft Event (2021)** - [Registration](https://carahevents.carahsoft.com/Event/Details/224562-redhat)
+* *Service Mesh Workshop* - **DevNation Federal (2021)** - [Slides](./presentations/2021_DNF_Service_Mesh_Workshop.pdf) [Registration](https://www.redhat.com/en/events/devnation-federal-2021#workshops-anchor)
+
 Here are some of my past presentations/publications (slide uploads coming soon):
-* *Service Mesh Workshop* - **DevNation Federal (2021)** - [Slides](./presentations/2021_DNF_Service_Mesh_Workshop.pdf)
 * *Powering Agency Transformation Through Innovation* - **GovLoop Virtual Event KeyNote (2021)** - [Video](https://go.govloop.com/transformation-roadmap.html), [Slides](./presentations/2021_TransformationInnovationKeynote.pdf)
 * *Demo: Using NVIDIA GPUs with Jupyter Notebooks on Red Hat OpenShift* - **OpenShift YouTube (2021)** - [Video](https://www.youtube.com/watch?v=Pm29sQhH3fI&t=2s)
 * *Speed Date with OpenShift* - **Low Light Summit (2021)** - [Details](https://www.ncsi.com/event/lowlight/presenters/redhat/), [Slides](./presentations/2021_Speed_Date_with_OpenShift.pdf)
