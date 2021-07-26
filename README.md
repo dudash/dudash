@@ -6,11 +6,11 @@ I've also got a bunch of small things in [my github gists](https://gist.github.c
 - Currently: Helping customers with strategy and adoption/transformation using open source & emerging technology
 - Past: UAVs, mobile, unmanned systems R&D, game dev.
 - Edu: Engineering and Computer Science @ Virginia Tech 
-- Ask me about <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="20" height="20">
 - How to reach me: <a href="https://twitter.com/dudashtweets"><img src="./twitter.png" width="20" height="20"></a>
 - Recent 🤓 reading: [Architects of Intelligence](https://www.goodreads.com/book/show/41998128-architects-of-intelligence)
+- Past and Upcoming [Tech Talks/Articles](https://github.com/dudash/dudash/blob/main/IndustryPresentations.md)
 
-I'm also just back to twitter for a second go at it, please [follow](https://twitter.com/dudashtweets) me!
+I'm also just back to twitter for a second go at it, please [follow](https://twitter.com/dudashtweets) me. It'll give me incentive to tweet more!
 
 ![dudashmetrics](https://raw.githubusercontent.com/dudash/dudash/main/github-metrics.svg)
 
@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/dudashtweets.svg?style=social&label=@dudashtweets)](https://twitter.com/dudashtweets)  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Ask me about: Emerging Technology and Software Development
+<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="20" height="20">Kubernests
 -->
