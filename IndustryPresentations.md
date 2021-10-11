@@ -4,6 +4,7 @@ As such you will often find me writing and talking about that. I cover a range o
 Upcoming industry events:
 * *Red Hat OpenShift as the innovation engine for container workloads* - **Touring multiple cities (Oct-Dec 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
 * *The path to digital leadership with open source in .gov* - **Touring multiple cities (Oct-Dec 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
+* *Open at the Edge* - **Red Hat Webinar (2021)** - [More Info Coming Soon]
 
 Here are some of my past presentations/publications (slide uploads coming soon):
 * *Application Modernization Using Event-Driven Architecture* - **Virtual Webinar Event (2021)** - [Video](https://carahsoft.zoom.us/rec/share/_Is5Qlvm3mr4gvC2_rzri8lRFimACWtf9nU7sfAkWchmsnAmW32WrfalXiwYcDzM.LYsTa0Bfi9FC_Jun)
