@@ -2,11 +2,12 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, integration, open source, and user experience & design at top conferences and regional user groups.
 
 Upcoming industry events:
-* *Red Hat OpenShift as the innovation engine for container workloads* - **Touring multiple cities (Oct-Dec 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
-* *The path to digital leadership with open source in .gov* - **Touring multiple cities (Oct-Dec 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
+* *Red Hat OpenShift as the innovation engine for container workloads* - **Red Hat Summit Connect (Nov 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
+* *The path to digital leadership with open source in .gov* - **Red Hat Summit Connect (Oct 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
 * *Open at the Edge* - **Red Hat Webinar (2021)** - [More Info Coming Soon]
 
 Here are some of my past presentations/publications (slide uploads coming soon):
+* *Tools and practices for remote development teams* - **RH Developer Blog (2021)** - [Blog Link](https://developers.redhat.com/articles/2021/10/12/tools-and-practices-remote-development-teams)
 * *Application Modernization Using Event-Driven Architecture* - **Virtual Webinar Event (2021)** - [Video](https://carahsoft.zoom.us/rec/share/_Is5Qlvm3mr4gvC2_rzri8lRFimACWtf9nU7sfAkWchmsnAmW32WrfalXiwYcDzM.LYsTa0Bfi9FC_Jun)
 * *Service Mesh Virtual Workshop* - **DevNation Federal (2021)** - [Slides](./presentations/2021_DNF_Service_Mesh_Workshop.pdf)
 * *Overcome Modernization Resistance with Enterprise Automation and Containers* - **Community Blog (2021)** - [Blog Link](https://www.carahsoft.com/community/red-hat-automation-and-containers-blog-2021)
