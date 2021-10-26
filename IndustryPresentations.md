@@ -3,10 +3,10 @@ As such you will often find me writing and talking about that. I cover a range o
 
 Upcoming industry events:
 * *Red Hat OpenShift as the innovation engine for container workloads* - **Red Hat Summit Connect (Nov 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
-* *The path to digital leadership with open source in .gov* - **Red Hat Summit Connect (Oct 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
 * *Open at the Edge* - **Red Hat Webinar (2021)** - [More Info Coming Soon]
 
 Here are some of my past presentations/publications (slide uploads coming soon):
+* *The path to digital leadership with open source in .gov* - **Red Hat Summit Connect (Oct-Dec 2021)** - [Slides](./presentations/2021-SummitConnect_RedHat-for-Government), [Register](https://www.redhat.com/en/summit/connect#locations--dates)
 * *Tools and practices for remote development teams* - **RH Developer Blog (2021)** - [Blog Link](https://developers.redhat.com/articles/2021/10/12/tools-and-practices-remote-development-teams)
 * *Application Modernization Using Event-Driven Architecture* - **Virtual Webinar Event (2021)** - [Video](https://carahsoft.zoom.us/rec/share/_Is5Qlvm3mr4gvC2_rzri8lRFimACWtf9nU7sfAkWchmsnAmW32WrfalXiwYcDzM.LYsTa0Bfi9FC_Jun)
 * *Service Mesh Virtual Workshop* - **DevNation Federal (2021)** - [Slides](./presentations/2021_DNF_Service_Mesh_Workshop.pdf)
@@ -27,7 +27,7 @@ Here are some of my past presentations/publications (slide uploads coming soon):
 * *Tame Microservices with an Istio Service Mesh* - **Whitepaper (2020)** - [Link](https://www.redhat.com/en/resources/tame-microservices-istio-service-mesh-overview)
 * *Introduction to Service Mesh and Istio* - **BrightTALK (2020)** - [Video](https://www.brighttalk.com/webcast/16623/408664), [Slides](./presentations/2020IntroductionToIstioAndServiceMesh.pdf)
 * *Don't Create a Service Mess, Use a Service Mesh* - **Red Hat Summit (2019)** - [Slides](./presentations/DUDASH-ServiceMeshSummit2019.pdf)
-* *Navigating Microservices Architectures* - **Red Hat Open First (2019)** -- [Slides](./presentations/2019-OpenFirst-Navigating-Microservices.pdf)
+* *Navigating Microservices Architectures* - **Red Hat Open First (2019)** - [Slides](./presentations/2019-OpenFirst-Navigating-Microservices.pdf)
 * *Open Source & Innovation* - **Fishackathon DC (2018)** - [Details](https://fishackathon.co/past-runs)
 * *Containerizing your Database with MongoDB and OpenShift* - **Webinar Event (2018)** - [Video](https://carahevents.carahsoft.com/Event/Details/76133-govevents), [Slides](./presentations/ContainerizingyourDatabasewithMongoDBandOpenShift.pdf)
 * *Run .NET and SQL Server natively on Linux with OpenShift* - **Red Hat Summit (2017)** - [Video](https://www.youtube.com/watch?v=xrC7IqOfpWQ), [Slides](./presentations/Summit2017-dotNETandSQLServeronLinux.pdf)
