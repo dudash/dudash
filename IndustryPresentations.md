@@ -23,7 +23,7 @@ Here are some of my past presentations/publications (slide uploads coming soon):
 * *Optimizing Serverless and OpenShift with Knative* - **BrightTALK (2020)** - [Video](https://www.brighttalk.com/webcast/16623/432634)
 * *Enterprise Kubernetes development with odo: The CLI tool for developers* - **RH Developer Blog (2020)** - [Blog Link](https://developers.redhat.com/blog/2020/06/16/enterprise-kubernetes-development-with-odo-the-cli-tool-for-developers#)
 * *Self-service, automation, and other keys to modern application development* - **BrightTALK (2020)**- [Video](https://www.brighttalk.com/webcast/16623/418677), [Slides](./presentations/2020ModernizingAppDevelopment-K8svSummit.pdf)
-* *Level Up your Microservices using Quarkus* - **Red Hat Summit (2020)** - [Video](https://youtu.be/Wz9bpT3cjvs)
+* *Level Up your Microservices using Quarkus* - **Red Hat Summit (2020)** - [Video](https://youtu.be/Wz9bpT3cjvs), [Slides]("./presentations/2020_Level-Up-your-Microservices-with-Quarkus.pdf")
 * *Tame Microservices with an Istio Service Mesh* - **Whitepaper (2020)** - [Link](https://www.redhat.com/en/resources/tame-microservices-istio-service-mesh-overview)
 * *Introduction to Service Mesh and Istio* - **BrightTALK (2020)** - [Video](https://www.brighttalk.com/webcast/16623/408664), [Slides](./presentations/2020IntroductionToIstioAndServiceMesh.pdf)
 * *Don't Create a Service Mess, Use a Service Mesh* - **Red Hat Summit (2019)** - [Slides](./presentations/DUDASH-ServiceMeshSummit2019.pdf)
