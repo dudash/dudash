@@ -2,8 +2,8 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, integration, open source, and user experience & design at top conferences and regional user groups.
 
 Upcoming industry events:
-* *Red Hat OpenShift as the innovation engine for container workloads* - **Red Hat Summit Connect (Nov 2021)** - [More Info Here](https://www.redhat.com/en/summit/connect#locations--dates)
-* *Open at the Edge* - **Red Hat Webinar (2021)** - [More Info Coming Soon]
+* *Ask the Experts - Building Innovative Technologies Through Data-Driven Decisions* - **Gov't Symposium (Nov 2021)** [Link](https://upgather.com/redhat/govsymposium/agenda/)
+* *Open at the Edge* - **Red Hat Webinar (Dec 2021)** - [More Info Coming Soon]
 
 Here are some of my past presentations/publications (slide uploads coming soon):
 * *The path to digital leadership with open source in .gov* - **Red Hat Summit Connect (Oct-Dec 2021)** - [Slides](./presentations/2021-SummitConnect_RedHat-for-Government.pdf), [Register](https://www.redhat.com/en/summit/connect#locations--dates)
