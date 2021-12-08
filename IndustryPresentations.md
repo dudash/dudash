@@ -2,11 +2,13 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
 
 ## Upcoming:
-* *Ask the Experts - Building Innovative Technologies Through Data-Driven Decisions* - **Gov't Symposium (Nov 2021)** [Link](https://upgather.com/redhat/govsymposium/agenda/)
-* *Open at the Edge* - **Red Hat Webinar (Dec 2021)** - [More Info Coming Soon]
+
 
 ## 2021
-* *The path to digital leadership with open source in .gov* - **Red Hat Summit Connect (Oct-Dec 2021)** - [Slides](./presentations/2021-SummitConnect_RedHat-for-Government.pdf), [Register](https://www.redhat.com/en/summit/connect#locations--dates)
+* *Open at the Edge* - **Red Hat Webinar (Dec 2021)** - [Video](https://www.redhat.com/en/events/webinar/open-at-the-infrastructure-edge-transforming-raw-data-into-warfare-dominance)
+* *4 realities IT leaders should know about remote developers now* - **The Enterprisers Project (Nov 2021)** [Blog Link](https://enterprisersproject.com/article/2021/11/remote-developers-4-realities-it-leaders-should-know)
+* *Ask the Experts - Building Innovative Technologies Through Data-Driven Decisions* - **Gov't Symposium (Nov 2021)** [Link](https://upgather.com/redhat/govsymposium/agenda/)
+* *The path to digital leadership with open source in .gov* - **Red Hat Summit Connect Tour (Oct-Dec 2021)** - [Slides](./presentations/2021-SummitConnect_RedHat-for-Government.pdf), [Register](https://www.redhat.com/en/summit/connect#locations--dates)
 * *Tools and practices for remote development teams* - **RH Developer Blog (2021)** - [Blog Link](https://developers.redhat.com/articles/2021/10/12/tools-and-practices-remote-development-teams)
 * *Application Modernization Using Event-Driven Architecture* - **Virtual Webinar Event (2021)** - [Video](https://carahsoft.zoom.us/rec/share/_Is5Qlvm3mr4gvC2_rzri8lRFimACWtf9nU7sfAkWchmsnAmW32WrfalXiwYcDzM.LYsTa0Bfi9FC_Jun)
 * *Service Mesh Virtual Workshop* - **DevNation Federal (2021)** - [Slides](./presentations/2021_DNF_Service_Mesh_Workshop.pdf)
