@@ -1,7 +1,7 @@
 I enjoy discussing the technology that I work with and the solutions I've been a part of.
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
 
-## Upcoming:
+## Upcoming and Recent:
 * *8 enterprise architecture trends to watch in 2022* - **Enable Architect (Feb 2022)** [Blog Link](https://www.redhat.com/architect/2022-trends-enterprise-architects)
 
 ## 2021
