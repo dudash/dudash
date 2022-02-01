@@ -2,7 +2,7 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
 
 ## Upcoming:
-
+* *8 enterprise architecture trends to watch in 2022* - **Enable Architect (Feb 2022)** [Blog Link](https://www.redhat.com/architect/2022-trends-enterprise-architects)
 
 ## 2021
 * *Open at the Edge* - **Red Hat Webinar (Dec 2021)** - [Video](https://www.redhat.com/en/events/webinar/open-at-the-infrastructure-edge-transforming-raw-data-into-warfare-dominance)
