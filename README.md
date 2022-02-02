@@ -6,7 +6,7 @@ I've also got a bunch of small things in [my github gists](https://gist.github.c
 - Currently: Helping customers with strategy and adoption/transformation using open source & emerging technology
 - Past: UAVs, mobile, unmanned systems R&D, game dev.
 - Edu: Engineering and Computer Science @ Virginia Tech 
-- How to reach me: <a href="https://twitter.com/dudashtweets"><img src="./twitter.png" width="20" height="20"></a>
+- How to reach me: [![Twitter](https://img.shields.io/badge/--blue?label=Twitter&style=social&logo=twitter)](https://twitter.com/dudashtweets)  [![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
 - Recent 🤓 reading: [Architects of Intelligence](https://www.goodreads.com/book/show/41998128-architects-of-intelligence)
 - Past and Upcoming [Tech Talks/Articles](https://github.com/dudash/dudash/blob/main/IndustryPresentations.md)
 
@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/dudashtweets.svg?style=social&label=@dudashtweets)](https://twitter.com/dudashtweets)  
+- 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/dudashtweets.svg?style=social&label=@dudashtweets)](https://twitter.com/dudashtweets) 
+[![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Ask me about: Emerging Technology and Software Development
