@@ -7,7 +7,7 @@ I've also got a bunch of small things in [my github gists](https://gist.github.c
 - Past: UAVs, mobile, unmanned systems R&D, game dev.
 - Edu: Engineering and Computer Science @ Virginia Tech 
 - How to reach me: [![Twitter](https://img.shields.io/badge/--blue?label=Twitter&style=social&logo=twitter)](https://twitter.com/dudashtweets)  [![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
-- Recent 🤓 reading: [Architects of Intelligence](https://www.goodreads.com/book/show/41998128-architects-of-intelligence)
+- Recent 🤓 reading: [The Alignment Problem](https://trello.com/b/ySxnKIat/dudashs-tech-reading-list)
 - Past and Upcoming [Tech Talks/Articles](https://github.com/dudash/dudash/blob/main/IndustryPresentations.md)
 
 I'm also just back to twitter for a second go at it, please [follow](https://twitter.com/dudashtweets) me. It'll give me incentive to tweet more!
