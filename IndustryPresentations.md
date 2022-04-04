@@ -2,6 +2,7 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
 
 ## Upcoming and Recent:
+* *Service Mesh in Action* - **Conf42 Cloud Native (April 2022)** - [Registration Link](https://www.conf42.com/Cloud_Native_2022_Jason_Dudash_service_mesh_in_action)
 * *8 enterprise architecture trends to watch in 2022* - **Enable Architect (Feb 2022)** [Blog Link](https://www.redhat.com/architect/2022-trends-enterprise-architects)
 
 ## 2021
