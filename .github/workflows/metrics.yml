@@ -32,7 +32,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: css, html, pug
           plugin_languages_threshold: 0%
-          plugin_tweets: yes
+          plugin_tweets: no
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }} # Required
           plugin_tweets_limit: 2
           plugin_tweets_user: dudashtweets
