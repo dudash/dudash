@@ -7,10 +7,8 @@ I've also got a bunch of small things in [my github gists](https://gist.github.c
 - Past: UAVs, mobile, unmanned systems R&D, game dev.
 - Edu: Engineering and Computer Science @ Virginia Tech 
 - How to reach me: [![Twitter](https://img.shields.io/badge/--blue?label=Twitter&style=social&logo=twitter)](https://twitter.com/dudashtweets)  [![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
-- Recent 🤓 reading: [Press Reset: Ruin and Recovery in the Video Game Industry](https://trello.com/c/fX1Wr9xI/6-press-reset-ruin-and-recovery-in-the-video-game-industry)
+- Recent 🤓 reading: [Designing Data-Intensive Applications](https://trello.com/c/6QkWjOyE/9-designing-data-intensive-applications)
 - Past and Upcoming [Tech Talks/Articles](https://github.com/dudash/dudash/blob/main/IndustryPresentations.md)
-
-I'm also just back to twitter for a second go at it, please [follow](https://twitter.com/dudashtweets) me. It'll give me incentive to tweet more!
 
 ![dudashmetrics](https://raw.githubusercontent.com/dudash/dudash/main/github-metrics.svg)
 
