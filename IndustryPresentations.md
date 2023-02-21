@@ -2,6 +2,9 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
 
 ## Upcoming and Recent:
+* Coming soon - settling back into being open again 
+
+## 2022
 * *Data Science for Everyone: 3 Things You Should Know* - **Keynote and Panel (August 2022)** - [Video](https://go.govloop.com/data-science), [Slides](./presentations/2022_Data_Science_AIML_Open_Source_and_MLOps.pdf)
 * *What Does it Take to Truly Transform?* - **Industry Experts Panel (June 2022)** - [Video](https://go.govloop.com/hybrid-apps.html)
 * *5 ways architects can maximize committed cloud spend* - **Architect Blog (May 2022)** - [Blog Link](https://www.redhat.com/architect/committed-cloud-spend)
