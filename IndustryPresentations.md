@@ -2,7 +2,9 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
 
 ## Upcoming and Recent:
-* Coming soon - settling back into being open again 
+* *Customer Experience and Engagement Summit* - **Pre-Keynote (June 2023)** [Event](https://www.govexec.com/sponsor-content/CXSummit2023/), [Video](https://player.performedia.com/ge23-23/player/closing-keynote/), [Transcript coming soon](./presentations/todo)
+
+### Time off from public speaking, working behind the closed doors of a DoD Startup
 
 ## 2022
 * *Data Science for Everyone: 3 Things You Should Know* - **Keynote and Panel (August 2022)** - [Video](https://go.govloop.com/data-science), [Slides](./presentations/2022_Data_Science_AIML_Open_Source_and_MLOps.pdf)
