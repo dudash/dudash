@@ -2,7 +2,7 @@ I enjoy discussing the technology that I work with and the solutions I've been a
 As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
 
 ## Upcoming and Recent:
-* *How to Transform Your Org With App Development* - **The Realities of Transformation Virtual Event** [Register here](https://go.govloop.com/digital-transformation-playbook.html)
+* *How to Transform Your Org With App Development* - **The Realities of Transformation Virtual Event** [Register here](https://go.govloop.com/digital-transformation-playbook.html) , [Slides](https://github.com/dudash/dudash/blob/309fecebb49723c0ad47d7a50cd0a22550142d63/presentations/2023-GovLoop-How-to_Transform_Your_org_with_App_Development.pdf)
 * *How Does Kubernetes Work and How is it Used?* - **ONLOGIC Blog** - [Blog Link](https://www.onlogic.com/company/io-hub/how-does-kubernetes-work-and-how-is-it-used/)
 * *Customer Experience and Engagement Summit* - **Pre-Keynote** [Event](https://www.govexec.com/sponsor-content/CXSummit2023/), [Video](https://player.performedia.com/ge23-23/player/closing-keynote/)
 
