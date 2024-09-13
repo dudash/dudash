@@ -1,14 +1,14 @@
 I enjoy discussing the technology that I work with and the solutions I've been a part of.
-As such you will often find me writing and talking about that. I cover a range of topics including cloud-native application development, microservices, Kubernetes, APIs & integration, open source, and product experience & design in webinars, at conferences, and at regional meetup groups.
+As such you will often find me writing and talking about that - webinars, conferences, regional meetup groups. 
 
-## Upcoming and Recent:
+I cover a range of topics including Artifical Intelligence and Machine Learning, cloud-native application development, microservices, Kubernetes, APIs & integration, open source, product & design.
+
+If you'd like me to speak at your event or write something for publication, [DM me on linkedin](https://www.linkedin.com/in/jasondudash/).
+
+## 2023 :
 * *How to Transform Your Org With App Development* - **The Realities of Transformation Virtual Event** [Video](https://go.govloop.com/digital-transformation-playbook.html) , [Slides](https://github.com/dudash/dudash/blob/309fecebb49723c0ad47d7a50cd0a22550142d63/presentations/2023-GovLoop-How-to_Transform_Your_org_with_App_Development.pdf)
 * *How Does Kubernetes Work and How is it Used?* - **ONLOGIC Blog** - [Blog Link](https://www.onlogic.com/company/io-hub/how-does-kubernetes-work-and-how-is-it-used/)
 * *Customer Experience and Engagement Summit* - **Pre-Keynote** [Event](https://www.govexec.com/sponsor-content/CXSummit2023/), [Video](https://player.performedia.com/ge23-23/player/closing-keynote/)
-
-## 
-### Time off from public speaking, working behind the stealthy doors of a startup
-## 
 
 ## 2022
 * *Data Science for Everyone: 3 Things You Should Know* - **Keynote and Panel** - [Video](https://go.govloop.com/data-science), [Slides](./presentations/2022_Data_Science_AIML_Open_Source_and_MLOps.pdf)
