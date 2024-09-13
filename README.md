@@ -3,7 +3,7 @@ Hi 👋 I'm Dudash!
 I would describe myself as a creative technologist (but I will always be a developer at :heart:). A lot of what you'll find here in my repos are: howto examples, demos, and proof of concepts.<br/>
 I've also got a bunch of small things in [my github gists](https://gist.github.com/dudash).
 
-- Currently: Technical Product Mgmt at NVIDIA (build.nvidia.com / ngc.nvidia.com)
+- Currently: Technical Product Mgmt at NVIDIA ([build.nvidia.com](build.nvidia.com) / [ngc.nvidia.com](ngc.nvidia.com))
 - Past: Open Hybrid Cloud, Edge Computing, UAVs, mobile, unmanned systems R&D, game dev.
 - Edu: Engineering and Computer Science @ Virginia Tech 
 - How to reach me: [![Twitter](https://img.shields.io/badge/--blue?label=Twitter&style=social&logo=twitter)](https://twitter.com/dudashtweets)  [![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
