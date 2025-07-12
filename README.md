@@ -1,28 +1,39 @@
-Hi 👋 I'm Dudash!
+# Hi 👋 I'm Dudash!
 
-I would describe myself as a creative technologist (but I will always be a developer at :heart:). A lot of what you'll find here in my repos are: howto examples, demos, and proof of concepts.<br/>
-I've also got a bunch of small things in [my github gists](https://gist.github.com/dudash).
+I'm a creative technologist who's been writing software since the 90s — back when installing Windows required a stack of floppy disks...
 
-- Currently: Technical Product Mgmt at NVIDIA ([build.nvidia.com](https://build.nvidia.com) / [ngc.nvidia.com](https://ngc.nvidia.com))
-- Past: Open Hybrid Cloud, Edge Computing, UAVs, mobile, unmanned systems R&D, game dev.
-- Edu: Engineering and Computer Science @ Virginia Tech 
-- How to reach me: [![Twitter](https://img.shields.io/badge/--blue?label=Twitter&style=social&logo=twitter)](https://twitter.com/dudashtweets)  [![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
-- Recent 🤓 reading: [Designing Data-Intensive Applications](https://trello.com/c/6QkWjOyE/9-designing-data-intensive-applications)
-- Past and Upcoming [Tech Talks/Articles](https://github.com/dudash/dudash/blob/main/IndustryPresentations.md)
+I like to tinker — and I’m excited about how AI and machine learning are accelerating innovation. Software is the engine behind it all, and openness is how we scale it — by making room for more people to contribute, collaborate, and build together. Open source has always felt like the natural way to work: collaborative, curious, and a little chaotic in the best way. When the work allows, I try to keep things public — even if it's just a rough demo or half-broken proof of concept. That’s part of the fun.
+
+💡 **Current interests**:  
+LLM-powered multiplayer interactive storytelling, developer tools, and practical AI integrations.
+
+📂 Also check out :  
+- 🧠 [`clivrt`](https://github.com/collabinator/clivrt) — CLI-based video chat with WebRTC signaling  
+- 🧭 [`mdbub`](https://github.com/collabinator/mdbubbles) — markdown-based mind-mapping in your terminal 
+📎 I keep smaller scripts, notes, and tools in [my GitHub Gists](https://gist.github.com/dudash).
+
+---
+
+## 🔗 Quick links
+
+- **Currently**: Technical Product Manager @ NVIDIA  
+  [build.nvidia.com](https://build.nvidia.com) / [ngc.nvidia.com](https://ngc.nvidia.com)  
+- **Previously**: Open Hybrid Cloud, Edge Computing, UAVs, mobile, game dev, and plenty of R&D  
+- **Education**: Engineering & Computer Science @ Virginia Tech  
+- **Contact**:  
+  [![Twitter](https://img.shields.io/badge/--blue?label=Twitter&style=social&logo=twitter)](https://twitter.com/dudashtweets)  
+  [![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
+
+---
+
+## 📚 Extras
+
+- 🧠 **Currently reading**:  
+  [Designing Data-Intensive Applications](https://trello.com/c/6QkWjOyE/9-designing-data-intensive-applications)
+
+- 📣 **Talks from the Vault**:  
+  I used to speak at conferences more regularly (especially during my Red Hat days). Some of those sessions are still floating around — [archived here](https://github.com/dudash/dudash/blob/main/IndustryPresentations.md).
+
+---
 
 ![dudashmetrics](https://raw.githubusercontent.com/dudash/dudash/main/github-metrics.svg)
-
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/dudashtweets.svg?style=social&label=@dudashtweets)](https://twitter.com/dudashtweets) 
-[![LinkedIn](https://img.shields.io/badge/Jason%20Dudash--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jasondudash/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Ask me about: Emerging Technology and Software Development
-<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="20" height="20">Kubernests
--->
