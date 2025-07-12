@@ -9,12 +9,13 @@ LLM-powered multiplayer interactive storytelling, developer tools, and practical
 
 📂 Also check out :  
 - 🧠 [`clivrt`](https://github.com/collabinator/clivrt) — CLI-based video chat with WebRTC signaling  
-- 🧭 [`mdbub`](https://github.com/collabinator/mdbubbles) — markdown-based mind-mapping in your terminal 
+- 🧭 [`mdbub`](https://github.com/collabinator/mdbubbles) — markdown-based mind-mapping in your terminal
+  
 📎 I keep smaller scripts, notes, and tools in [my GitHub Gists](https://gist.github.com/dudash).
 
 ---
 
-## 🔗 Quick links
+## 🔗 Work
 
 - **Currently**: Technical Product Manager @ NVIDIA  
   [build.nvidia.com](https://build.nvidia.com) / [ngc.nvidia.com](https://ngc.nvidia.com)  
