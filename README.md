@@ -2,7 +2,7 @@
 
 I'm a creative technologist who's been writing software since the 90s — back when installing Windows required a stack of floppy disks...
 
-I like to tinker — and I’m excited about how AI and machine learning are accelerating innovation. Software is the engine behind it all, and openness is how we scale it — by making room for more people to contribute, collaborate, and build together. Open source has always felt like the natural way to work: collaborative, curious, and a little chaotic in the best way. When the work allows, I try to keep things public — even if it's just a rough demo or half-broken proof of concept. That’s part of the fun.
+I like to tinker. I’m excited about how AI and machine learning are accelerating innovation. Software is the engine behind it all, and openness is how we scale innovation. Open allows all to contribute, collaborate, and build together.  When the work allows, I try to keep things public and open licensed, even if it's just a rough demo or half-broken proof of concept.
 
 💡 **Current interests**:  
 LLM-powered multiplayer interactive storytelling, developer tools, and practical AI integrations.
