@@ -8,8 +8,8 @@ I like to tinker. I’m excited about how AI and machine learning are accelerati
 LLM-powered multiplayer interactive storytelling, developer tools, and practical AI integrations.
 
 📂 Also check out :  
-- 🧠 [`clivrt`](https://github.com/collabinator/clivrt) — CLI-based video chat with WebRTC signaling  
-- 🧭 [`mdbub`](https://github.com/collabinator/mdbubbles) — markdown-based mind-mapping in your terminal
+- 🧠 [`mdbub`](https://github.com/dudash/mdmind) — markdown-based mind-mapping in your terminal
+- 🧭 [`clivrt`](https://github.com/collabinator/clivrt) — CLI-based video chat with WebRTC signaling  
   
 📎 I keep smaller scripts, notes, and tools in [my GitHub Gists](https://gist.github.com/dudash).
 
