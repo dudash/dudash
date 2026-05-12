@@ -30,7 +30,7 @@ LLM-powered multiplayer interactive storytelling, developer tools, and practical
 ## 📚 Extras
 
 - 🧠 **Currently reading**:  
-  [Designing Data-Intensive Applications](https://trello.com/c/6QkWjOyE/9-designing-data-intensive-applications)
+  [Notes on Complexity](https://trello.com/c/3JpEsU7C/14-notes-on-complexity)
 
 - 📣 **Talks from the Vault**:  
   I used to speak at conferences more regularly (especially during my Red Hat days). Some of those sessions are still floating around — [archived here](https://github.com/dudash/dudash/blob/main/IndustryPresentations.md).
